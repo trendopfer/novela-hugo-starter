@@ -3,7 +3,7 @@ authors = []
 date = 2020-01-27T23:00:00Z
 draft = true
 excerpt = "we will be dying sooner or later, and if later than we should ask ourselfs what we do untill now rather sooner than later"
-hero = "/images/profil2.JPG"
+hero = "/images/favicon.svg"
 timeToRead = 3
 title = "AS FAR AS I KNOW"
 
