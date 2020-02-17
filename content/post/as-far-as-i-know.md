@@ -3,12 +3,12 @@ authors = []
 date = 2020-01-27T23:00:00Z
 draft = true
 excerpt = "we will be dying sooner or later, and if later than we should ask ourselfs what we do untill now rather sooner than later"
-hero = "/images/favicon.svg"
+hero = ""
 timeToRead = 3
 title = "AS FAR AS I KNOW"
 
 +++
-### **Meldesystem für Texte auf Internetseiten** (METIS) ist eine Abteilung der [Verwertungsgesellschaft Wort](https://de.wikipedia.org/wiki/Verwertungsgesellschaft_Wort "Verwertungsgesellschaft Wort") (VG Wort), die es erlaubt, [Tantiemen](https://de.wikipedia.org/wiki/Tantiemen "Tantiemen") für Texte im Internet an Autoren auszuschütten. Die Abteilung ist seit dem 1. Januar 2007 aktiv; die erste Ausschüttung erfolgte 2008 für das Vorjahr. Die VG Wort ist derzeit die weltweit einzige Verwertungsgesellschaft, die Tantiemen für Texte im Internet ausschüttet. Die Vergütung kann grundsätzlich jeder Webseitenbetreiber oder Autor erhalten, also [Blogger](https://de.wikipedia.org/wiki/Weblog "Weblog") ebenso wie [Journalisten](https://de.wikipedia.org/wiki/Journalist "Journalist").
+### ![](/images/profil2.JPG "this is the host")**Meldesystem für Texte auf Internetseiten** (METIS) ist eine Abteilung der [Verwertungsgesellschaft Wort](https://de.wikipedia.org/wiki/Verwertungsgesellschaft_Wort "Verwertungsgesellschaft Wort") (VG Wort), die es erlaubt, [Tantiemen](https://de.wikipedia.org/wiki/Tantiemen "Tantiemen") für Texte im Internet an Autoren auszuschütten. Die Abteilung ist seit dem 1. Januar 2007 aktiv; die erste Ausschüttung erfolgte 2008 für das Vorjahr. Die VG Wort ist derzeit die weltweit einzige Verwertungsgesellschaft, die Tantiemen für Texte im Internet ausschüttet. Die Vergütung kann grundsätzlich jeder Webseitenbetreiber oder Autor erhalten, also [Blogger](https://de.wikipedia.org/wiki/Weblog "Weblog") ebenso wie [Journalisten](https://de.wikipedia.org/wiki/Journalist "Journalist").
 
 Durch Konsumentenstudien wurde ermittelt, dass die Hälfte der auf [DVD](https://de.wikipedia.org/wiki/DVD "DVD") und [CD](https://de.wikipedia.org/wiki/Compact_Disc "Compact Disc") gebrannten [urheberrechtlich](https://de.wikipedia.org/wiki/Urheberrecht "Urheberrecht") geschützten Texte aus dem Internet heruntergeladen wurde. Auf DVD/CD-Brenner erhebt die VG Wort so genannte Geräteabgaben im Bereich „Reprographievergütung“. Diese sind nach Abzug anderer Ausgaben[\[1\]](https://de.wikipedia.org/wiki/Meldesystem_f%C3%BCr_Texte_auf_Internetseiten#cite_note-1) zur Ausschüttung im Folgejahr vorgesehen, ein Anteil hiervon fließt jeweils in die METIS-Ausschüttungen. Die Kopiergeräteabgaben erhöhten sich 2009 insbesondere durch einen starken Anstieg des Aufkommens aus Fotokopier- und Multifunktionsgeräten auf 377,15 Mio. Euro.[\[2\]](https://de.wikipedia.org/wiki/Meldesystem_f%C3%BCr_Texte_auf_Internetseiten#cite_note-2)[\[3\]](https://de.wikipedia.org/wiki/Meldesystem_f%C3%BCr_Texte_auf_Internetseiten#cite_note-vgwort2009-3)
 
