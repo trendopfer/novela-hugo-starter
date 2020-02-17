@@ -1,5 +1,15 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
-  maxWidthPX: 652
+  heading: you dont know a thing or two
+  maxWidthPX: "652"
+
 ---
+## ![](/images/profil2.JPG)and while you dont know, i do
+
+> Wher have all the trees gone mad and left the forest for good?
+
+**Meldesystem für Texte auf Internetseiten** (METIS) ist eine Abteilung der [Verwertungsgesellschaft Wort](https://de.wikipedia.org/wiki/Verwertungsgesellschaft_Wort "Verwertungsgesellschaft Wort") (VG Wort), die es erlaubt, [Tantiemen](https://de.wikipedia.org/wiki/Tantiemen "Tantiemen") für Texte im Internet an Autoren auszuschütten. Die Abteilung ist seit dem 1. Januar 2007 aktiv; die erste Ausschüttung erfolgte 2008 für das Vorjahr. Die VG Wort ist derzeit die weltweit einzige Verwertungsgesellschaft, die Tantiemen für Texte im Internet ausschüttet. Die Vergütung kann grundsätzlich jeder Webseitenbetreiber oder Autor erhalten, also [Blogger](https://de.wikipedia.org/wiki/Weblog "Weblog") ebenso wie [Journalisten](https://de.wikipedia.org/wiki/Journalist "Journalist").
+
+Durch Konsumentenstudien wurde ermittelt, dass die Hälfte der auf [DVD](https://de.wikipedia.org/wiki/DVD "DVD") und [CD](https://de.wikipedia.org/wiki/Compact_Disc "Compact Disc") gebrannten [urheberrechtlich](https://de.wikipedia.org/wiki/Urheberrecht "Urheberrecht") geschützten Texte aus dem Internet heruntergeladen wurde. Auf DVD/CD-Brenner erhebt die VG Wort so genannte Geräteabgaben im Bereich „Reprographievergütung“. Diese sind nach Abzug anderer Ausgaben[\[1\]](https://de.wikipedia.org/wiki/Meldesystem_f%C3%BCr_Texte_auf_Internetseiten#cite_note-1) zur Ausschüttung im Folgejahr vorgesehen, ein Anteil hiervon fließt jeweils in die METIS-Ausschüttungen. Die Kopiergeräteabgaben erhöhten sich 2009 insbesondere durch einen starken Anstieg des Aufkommens aus Fotokopier- und Multifunktionsgeräten auf 377,15 Mio. Euro.[\[2\]](https://de.wikipedia.org/wiki/Meldesystem_f%C3%BCr_Texte_auf_Internetseiten#cite_note-2)[\[3\]](https://de.wikipedia.org/wiki/Meldesystem_f%C3%BCr_Texte_auf_Internetseiten#cite_note-vgwort2009-3)
+
+Die Anzahl der teilnehmenden Autoren und Seitenmeldungen hat sich im Jahr 2008 gegenüber dem METIS-Startjahr 2007 verzehnfacht[\[4\]](https://de.wikipedia.org/wiki/Meldesystem_f%C3%BCr_Texte_auf_Internetseiten#cite_note-vgwort2008-4), im Folgejahr 2009 erneut versechsfacht. Inzwischen werden jedes Jahr mehr als 200.000 METIS-Meldungen abgewickelt. Für Texte im Internet wurden 2008 insgesamt 110.000 Euro an 401 Autoren und 19 Verlage ausgeschüttet, im Jahr 2009 stieg dies auf 616.285 Euro an 2.466 Autoren und 39 Verlage (inkl. Meldungen zur [Sonderausschüttung](https://de.wikipedia.org/wiki/Meldesystem_f%C3%BCr_Texte_auf_Internetseiten#Sonderausschüttung)) (Stand April 2010[\[3\]](https://de.wikipedia.org/wiki/Meldesystem_f%C3%BCr_Texte_auf_Internetseiten#cite_note-vgwort2009-3)).
