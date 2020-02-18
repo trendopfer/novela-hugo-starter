@@ -1,4 +1,11 @@
 ---
 label: yoyo
 hide_body: true
-fields: []
+fields:
+- name: blocks1
+  type: blocks
+  label: blocks1
+  template_types: []
+  config:
+    min: 
+    max: 
